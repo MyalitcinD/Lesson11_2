@@ -10,7 +10,6 @@ namespace Task
     {
         double k;
         double b;
-
         public Equation(double k, double b)
         {
             this.k = k;
